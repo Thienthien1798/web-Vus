@@ -1,0 +1,168 @@
+@font-face {
+    font-family: "Averta PE";
+    src: url("../fonts/Averta.otf");
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: "Averta PE", serif;
+    overflow-x: hidden;
+    width: 100%;
+}
+
+.bg-gray {
+    background-color: #F5F5F5;
+}
+
+.bg-container {
+    background-color: #001EA3;
+}
+
+.m-w {
+    width: 100%;
+    padding: 0;
+}
+
+.container {
+    max-width: 100%;
+}
+
+.color-gray {
+    background-color: #ffffff;
+}
+
+.po-re {
+    position: relative;
+}
+
+.po-ap {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.log {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.f1 {
+    font-size: 35px;
+    font-weight: 700;
+    color: #001EA3;
+}
+
+.f2 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #001EA3;
+    line-height: 1.25;
+}
+
+.p1 {
+    padding-top: 18px;
+}
+
+/* figures */
+.figure-inner-h {
+    height: 130px;
+    width: 70%;
+    align-items: center;
+}
+
+.figures-h2 {
+    position: relative;
+    left: 30px;
+    font-size: 95px;
+    font-weight: bolder;
+    color: #FF3636;
+}
+
+.figures-h5 {
+    font-size: 25px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding: 0 50px 8px 30px;
+
+}
+
+.img-years {
+    position: relative;
+    right: 40px;
+    height: 130px;
+}
+
+.img-years img {
+    width: 80px;
+    height: 80px;
+}
+
+.rector {
+    width: 53px;
+    height: 53px;
+    margin-left: 35px;
+    margin-bottom: 15px;
+}
+
+/* testimon */
+.testimon-text_title h2 {
+    font-size: 60px;
+}
+
+i {
+    font-size: 16px;
+    font-weight: 600;
+    color: #494949;
+}
+
+/* gold */
+.gold-center {
+    display: flex;
+    margin: 35px auto;
+    justify-content: space-between;
+}
+
+.im-1 {
+    width: 282px;
+    height: 48px;
+}
+
+.im-2 {
+    width: 174px;
+    height: 45px;
+}
+
+.im-3 {
+    width: 149px;
+    height: 104px;
+}
+
+.im-4 {
+    width: 200px;
+    height: 61px;
+}
+
+.im-5 {
+    width: 236px;
+    height: 62px;
+}
+
+.im-6 {
+    width: 245px;
+    height: 67px;
+}
+
+.im-7 {
+    width: 180px;
+    height: 66px;
+}
+
+.im-8 {
+    width: 250px;
+    height: 60px;
+}
